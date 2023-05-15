@@ -1,0 +1,71 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    background-color: #edebeb;
+    width: 100%;
+    margin: 15px auto 15px auto;
+}
+
+.wrapper .top h1 {
+    padding: 20px;
+    text-align: center;
+}
+
+.wrapper .top p {
+    padding: 15px;
+    text-align: center;
+}
+
+div #picture{
+    background-color: white;
+    max-width: 90vw;
+    height: 120vh;
+}
+
+div #picture img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+div #picture p {
+    padding: 20px;
+    text-align: center;
+}
+
+.timeline {
+    max-width: 80%;
+}
+.timeline h3{
+    text-align: center;
+    margin: 40px auto 60px auto;
+}
+.timeline ul {
+    list-style: disc;
+}
+.timeline ul li {
+    padding: 10px 0 10px 0;
+}
+
+.invisible{
+    height: 50vh;
+}
+
+.invisible p {
+    color: lightgrey;
+    text-align: center;
+    margin: 70px auto 50px auto;
+}
+
+.footer {
+    font-size: large;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+https://replit.com/@AlPascal1010/HTML-CSS-JS?s=app
